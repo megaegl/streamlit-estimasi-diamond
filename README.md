@@ -263,4 +263,4 @@ Didapatkan hasil **RSME** sebesar 1187.527141904959 dan hasil **R2** sebesar 0.9
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-estimasi-diamond-i6dlzlzqgd3r2aaweqfwim.streamlit.app/
